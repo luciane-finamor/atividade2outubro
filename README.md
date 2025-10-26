@@ -1,6 +1,6 @@
 # 🎨 Atividade 02 – Portal da Literatura
 
-***LINK PAGINA***: 
+***LINK PAGINA***: https://luciane-finamor.github.io/atividade2outubro/
 
 ## 📘 Contexto da Atividade
 
